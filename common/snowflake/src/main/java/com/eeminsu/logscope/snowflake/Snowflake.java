@@ -1,4 +1,4 @@
-package kuke.board.common.snowflake;
+package com.eeminsu.logscope.snowflake;
 
 import java.util.random.RandomGenerator;
 
