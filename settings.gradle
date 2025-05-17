@@ -1,1 +1,5 @@
 rootProject.name = 'log-scope'
+
+include 'common'
+include 'common:snowflake'
+include 'service'
